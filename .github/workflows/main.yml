@@ -61,4 +61,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: mstarostin/taski_backend:latest 
+          tags: mstarostin/taski_backend:latest
